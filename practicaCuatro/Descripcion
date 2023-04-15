@@ -1,0 +1,15 @@
+En esta practica se realizo una API REST utilizando una BBDD en MySQL. 
+Se utilizo Hibernate y Spring boot con Spring tool Suite. 
+
+Descripcion:
+Se desea crear un videojuego de guerra, en el cual se tienen mercenarios, equipamientos y habilidades.
+Cada mercenario tiene o no asignado un superior, a cada mercenario se le asignará una habilidad y un equipamiento para que puedan luchar.
+-Se debe de obtener, crear, editar y eliminar un mercenario, una habilidad y un equipamiento.
+-Obtener el listado de los mercenarios, las habilidades y los equipamientos.
+-Obtener por Id los mercenarios, habilidades y los equipamientos.
+
+
+
+
+
+Este programa se realizó como capacitación, aprender a usar tanto hibernate como Spring boot.  
